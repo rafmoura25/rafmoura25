@@ -1,4 +1,4 @@
-<h3 align="center">Hey 👋! Meu nome é Rafael, sou Tech Manager na Alliança e moro em Jundiaí/SP.</h3>
+<h3 align="center">Hey 👋! Meu nome é Rafael, sou Software Project Lead no Mercado Livre e moro em Sorocaba/SP.</h3>
 
 ###
 
