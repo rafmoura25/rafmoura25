@@ -1,4 +1,17 @@
-<h3 align="center">Hey 👋! Meu nome é Rafael, sou Software Project Lead no Mercado Livre e moro em Sorocaba/SP.</h3>
+<h2 align="center">👋 Hey! I'm Rafael Moura</h2>
+
+<h4 align="center">
+Engineering Leader • AI Builder • SaaS Founder
+</h4>
+
+<p align="center">
+Software Project Lead with 14+ years in software development.<br>
+Building AI products, automations and SaaS platforms for real-world problems.
+</p>
+
+<p align="center">
+Currently focused on <b>AI Agents • Automation • SaaS • Distributed Systems</b>
+</p>
 
 ###
 
