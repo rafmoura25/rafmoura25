@@ -13,7 +13,7 @@ Building AI products, automations and SaaS platforms for real-world problems.
 Currently focused on <b>AI Agents • Automation • SaaS • Distributed Systems</b>
 </p>
 
-### 🚀 What I work with
+  <h3 align="center">👋 🚀 What I work with</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -34,8 +34,8 @@ Currently focused on <b>AI Agents • Automation • SaaS • Distributed System
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo"  />
 </div>
 
-### 🌎 Connect with me
-
+<h3 align="center">🌎 Connect with me
+   
 <div align="center">
   <a href="rafmoura25@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
